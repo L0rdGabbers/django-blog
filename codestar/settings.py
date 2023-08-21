@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['godjango-app.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['godjango-app-7ab60996ec8e.herokuapp.com', 'localhost']
 
 
 # Application definition
